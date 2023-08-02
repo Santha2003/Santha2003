@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📄 Know about my experiences [https://shorturl.at/aDOVW](https://shorturl.at/aDOVW)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
